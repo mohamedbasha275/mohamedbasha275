@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Mohammed Basha 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Cross-platform+App+Builder;Loves+Clean+Code;Open+Source+Enthusiast&center=true&width=500&height=45">
@@ -31,8 +31,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedbasha275&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedbasha275&layout=compact&theme=radical" height="180"/>
 </p>
 
 ---
@@ -58,7 +58,7 @@ Here are some Flutter apps I've worked on:
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedbasha275&theme=tokyo-night" />
 </p>
 
 ---
@@ -66,7 +66,7 @@ Here are some Flutter apps I've worked on:
 ## 🐍 GitHub Snake Animation
 
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/mohamedbasha275/mohamedbasha275/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
