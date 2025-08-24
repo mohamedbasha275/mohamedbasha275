@@ -90,8 +90,7 @@ Here are some Flutter apps I've worked on:
 ## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://github.com/mohamedbasha275/mohamedbasha275/blob/output/github-contribution-grid-snake.svg" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedbasha275&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 ---
 
