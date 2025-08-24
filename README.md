@@ -90,9 +90,8 @@ Here are some Flutter apps I've worked on:
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedbasha275&theme=tokyo-night" />
+  <img src="https://github.com/mohamedbasha275/mohamedbasha275/blob/output/snake.svg" alt="Snake animation"/>
 </p>
-
 ---
 
 ## 🐍 GitHub Snake Animation
