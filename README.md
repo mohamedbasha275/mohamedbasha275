@@ -41,9 +41,41 @@
 
 Here are some Flutter apps I've worked on:
 
-- 📱 [Awesome Quran App](https://github.com/yourusername/quran-app): A Quran reading app with beautiful UI
-- ☀️ [Flutter Weather UI](https://github.com/yourusername/flutter-weather-ui): Clean and modern weather app
-- 🎵 [Music Player](https://github.com/yourusername/flutter-music-player): Offline music player built with Flutter
+📱 Holly Quran App (https://play.google.com/store/apps/details?id=net.quran.holly
+): An Islamic app that contains the Noble Qurʼan, tafseer, daily supplications, and more.
+
+📖 Dawawin (https://play.google.com/store/apps/details?id=com.dawawin.app
+): A poetry and memorization app with gamified learning.
+
+🚗 Fast Car Wash (https://play.google.com/store/apps/details?id=net.imockup.fastcarwash
+): Mobile app for booking car wash services on-demand.
+
+🇵🇸 Palestiny App (https://play.google.com/store/apps/details?id=com.palestiny.app
+): Educational app about Palestine’s history, culture, and boycott products.
+
+🚘 Tashlih App (https://play.google.com/store/apps/details?id=com.tashlihi.app
+): An app for car spare parts marketplace and dealer–customer offers.
+
+🛒 Ramky App (https://play.google.com/store/apps/details?id=com.ramki.app
+): E-commerce app for purchasing and delivering products.
+
+🛑 Haraj Net App (https://play.google.com/store/apps/details?id=com.haraj.net
+): Marketplace app for selling, auctions, and messaging between users.
+
+🌍 Aktashaf Ser Logaty (https://play.google.com/store/apps/details?id=com.logaty.app
+): An educational app to teach Arabic with videos and chat rooms.
+
+📅 Hujuzat (https://play.google.com/store/apps/details?id=com.hujuzat.app
+): Reservation app for booking appointments at restaurants, barbers, and lounges.
+
+🏪 Hujuzat Pro (https://play.google.com/store/apps/details?id=com.hujuzatadmin.app
+): Store management & reservations app for business owners.
+
+🎮 Fekr (Quiz Game) (https://play.google.com/store/apps/details?id=com.fekrapp.app
+): Interactive quiz and trivia game with multiplayer challenges.
+
+🏋️ ManaretGYM (https://play.google.com/store/apps/details?id=com.manaret.app
+): Gym management app to book classes and track sessions.
 
 ---
 
